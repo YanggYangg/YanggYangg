@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi👋, I'm Nguyen Thi Quynh Giang
 
+💻 I'm a **Software Engineer** and **Frontend Developer** passionate about building modern, user-friendly, and scalable applications.  
+
+✨ I enjoy turning ideas into reality with clean code, intuitive UI/UX, and optimized performance.  
 <!--
 **YanggYangg/YanggYangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
