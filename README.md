@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,html,css,git,android,nextjs,umijs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,html,css,git,android,nextjs" />
 </p>
 
 ---
