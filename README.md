@@ -17,25 +17,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,html,css,git,reactnative,nextjs,umijs" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanggYangg&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanggYangg&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanggYangg&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,html,css,git,android,nextjs,umijs" />
 </p>
 
 ---
