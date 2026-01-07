@@ -1,19 +1,45 @@
-## Hi👋, I'm Nguyen Thi Quynh Giang
+<h1 align="center">🌸 Nguyễn Thị Quỳnh Giang 🌸</h1>
+<h3 align="center">Fullstack Developer | Software Engineering Student</h3>
 
-💻 I'm a **Software Engineer** and **Frontend Developer** passionate about building modern, user-friendly, and scalable applications.  
+<p align="center">
+  <i>Industrial University of Ho Chi Minh City</i>
+</p>
 
-✨ I enjoy turning ideas into reality with clean code, intuitive UI/UX, and optimized performance.  
-<!--
-**YanggYangg/YanggYangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Information Technology student  
+- 💻 Career focus: **Frontend Developer**  || **Fullstack Developer**
+- 🌱 Interested in Web Development, Mobile Applications, and E-Learning Systems  
+- ⚡ Passionate about learning new technologies and building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,html,css,git,reactnative,nextjs,umijs" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanggYangg&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanggYangg&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanggYangg&theme=tokyo-night" />
+</p>
+
+---
+
+### 💌 Contact
+- 📧 Email: nguyenquynhgiang1324@gmail.com
+- 💼 GitHub: https://github.com/YanggYangg
